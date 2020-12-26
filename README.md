@@ -2,7 +2,7 @@
 
 # Google OAuth React Redux
 
-This demo project integrates Google Auth Library with React Redux to provide an OAuth login.
+This project integrates Google Auth Library with React Redux to provide an OAuth login.
 
 ## Authors
 
